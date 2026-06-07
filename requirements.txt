@@ -5,10 +5,7 @@ numpy
 plotly
 ta
 scikit-learn
-tensorflow
-transformers
-torch
-shap
-matplotlib
+tensorflow==2.16.1
 xgboost
 joblib
+matplotlib
